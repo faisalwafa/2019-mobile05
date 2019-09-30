@@ -3,4 +3,7 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pushups_desc">The pushup is a simple exercise that can strengthen and tone many of the muscles of the upper body and core. There are many variations of pushup that suit a range of abilities and focus on different sets of muscles.</string>
+    <string name="dips_desc">Dips are a compound, body-weight exercise. You do Dips by first raising yourself on two dip bars with straight arms. Lower your body until your shoulders are below your elbows. Push yourself up until your arms are straight again. Dips work your chest, shoulders, back and arm muscles.</string>
+    <string name="handstand_desc">The handstand-up (press-up) -also called the vertical push-up (press-up) also called "commandos"-is a type of push-up exercise where the body is positioned in a handstand. To prepare the strength until one has built adequate balance.</string>
 </resources>
